@@ -1,8 +1,8 @@
 ### Olá, eu sou o João Porfirio!
 
- 💻 Atualmente trabalho como Desenvolvedor FullStack<br />
- 👨‍🎓 Cursando 8° semestre de Ciência da Computação<br />
- 💡 Estudando React <br />
+ 💻 Desenvolvedor FullStack<br />
+ 👨‍🎓 Ciência da Computação<br />
+ 💡 Inovação e Criatividade <br />
 
 <div>
   <a href="https://github.com/joao-porfirio">
