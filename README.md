@@ -4,6 +4,8 @@
  👨‍🎓 Ciência da Computação<br />
  💡 Inovação e Criatividade <br />
 
+   <a href="https://www.joaoporfirio.com.br/" target="_blank">< Acessar Portfólio ></a>
+
 <div>
   <a href="https://github.com/joao-porfirio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-porfirio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
